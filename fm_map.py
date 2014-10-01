@@ -1,8 +1,9 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sat Sep 27 21:28:02 2014
-
 @author: jradavenport
+
+Goal: make map of all 27k FM radio transmitter coverages
 """
 
 import numpy as np
